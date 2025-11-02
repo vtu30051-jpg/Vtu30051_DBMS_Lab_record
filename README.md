@@ -1,1 +1,1 @@
-# Vtu30051_DBMS-Lab
+# Vtu30051_DBMS_Lab
